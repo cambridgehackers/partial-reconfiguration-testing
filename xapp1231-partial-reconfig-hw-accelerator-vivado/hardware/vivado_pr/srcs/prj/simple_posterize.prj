@@ -1,0 +1,17 @@
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/FIFO_image_filter_cols36_channel.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/FIFO_image_filter_img_0_cols_V_channel.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/FIFO_image_filter_img_0_data_stream_0_V.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/FIFO_image_filter_img_0_data_stream_1_V.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/FIFO_image_filter_img_0_rows_V_channel.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/FIFO_image_filter_img_1_cols_V.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/FIFO_image_filter_img_1_data_stream_0_V.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/FIFO_image_filter_img_1_data_stream_1_V.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/FIFO_image_filter_img_1_rows_V.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/FIFO_image_filter_rows37_channel.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/image_filter_AXIvideo2Mat.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/image_filter_Block_proc.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/image_filter_CONTROL_BUS_s_axi.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/image_filter_Loop_1_proc.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/image_filter_Mat2AXIvideo.v
+verilog xil_defaultLib ./srcs/ip/simple_posterize/hdl/verilog/image_filter.v
+verilog xil_defaultLib ./srcs/hdl/system_top_image_filter_1_0.v
